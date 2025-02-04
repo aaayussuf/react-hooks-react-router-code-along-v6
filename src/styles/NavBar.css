@@ -1,0 +1,14 @@
+.nav-link {
+    display: inline-block;
+    padding: 10px;
+    margin: 0 6px;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  
+  .nav-link.active {
+    color: red;
+  }
+  
